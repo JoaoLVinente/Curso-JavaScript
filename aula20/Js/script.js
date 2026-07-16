@@ -25,4 +25,3 @@ function meuEscopo () {
     form.addEventListener('submit', recebeEventoForm) //executa a funcao quando o submit(envio) acontecer
 }
 meuEscopo();
-
